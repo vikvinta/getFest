@@ -19,7 +19,7 @@
       font-size: 13px;
       line-height: 1.15;
       color: #7d639f;
-      margin-left: 170px;
+      margin-left: 139px;
 }
 
 #button {
@@ -34,7 +34,7 @@
      font-weight: 600;
      color: #ffffff;
      line-height: 50px;
-     margin-left: 555px;
+     margin-left: 546px;
 }
 #h1 {
 	width: 800px;
@@ -44,7 +44,7 @@
     font-weight: 300px;
     text-align: center;
     color: #46237a;
-    margin-left: 350px;
+    margin-left: 337px;
     padding-top: 150px;
 
 }
@@ -276,7 +276,7 @@
   height: 1px;
   background-color: #ffffff;
   border: solid 1px #dfdfdf;
-  margin-bottom: 114px;
+  margin-bottom: 39px;
 }
 
 #rectangle-3-col {
@@ -783,7 +783,7 @@
 }
 #rectangle-5 {
   width: 1347px;
-  height: 295px;
+  height: 250px;
   background-color: #46237a;
   border: solid 1px #979797;
 }
@@ -834,7 +834,7 @@
   width: 111px;
   height: 45px;
   object-fit: contain;
-  margin-left: 35px;
+  margin-left: 5px;
   margin-top: 15px;
 }
 #contener-right {
@@ -884,4 +884,10 @@
   font-family: Open Sans;
   font-weight: 300;
   color: #ffffff;
+  margin-left: 400px;
+  padding-top: 90px;
+}
+#nom {
+	margin-left: 425px;
+	margin-top: -67px; 
 }
